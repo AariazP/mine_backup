@@ -8,4 +8,3 @@ pkill -f "java -Xmx1024M -Xms1024M -jar $JAR_FILE nogui"
 
 # Ejecutar el servidor en segundo plano
 java -Xmx1024M -Xms1024M -jar $JAR_FILE nogui &
-#comentario de prueba
