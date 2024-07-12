@@ -79,3 +79,115 @@
 [03:18:42] [Server thread/WARN]: TIAN2531 moved too quickly! 124.37829893958713,7.0,32.960593231682196
 [03:22:44] [Server thread/INFO]: Villager EntityVillager['Shepherd'/46453, l='ServerLevel[world]', x=1100.30, y=69.00, z=-343.30] died, message: 'Shepherd was slain by Zombie'
 [03:27:19] [Server thread/INFO]: Aariaz_ has made the advancement [Not Today, Thank You]
+[03:35:13] [Server thread/INFO]: Aariaz_ blew up
+[03:35:28] [Server thread/INFO]: Aariaz_ fell from a high place
+[03:35:56] [Server thread/INFO]: Aariaz_ issued server command: /gamemode creative
+[03:35:56] [Server thread/INFO]: [Aariaz_: Set own game mode to Creative Mode]
+[03:36:11] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
+[03:36:11] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
+[03:38:00] [Server thread/INFO]: Villager EntityVillager['Villager'/47602, l='ServerLevel[world]', x=752.81, y=70.00, z=-374.14] died, message: 'Villager was slain by Zombie'
+[03:39:55] [Server thread/INFO]: nata0388 issued server command: /tp nata0388 Aariaz_
+[03:39:55] [Server thread/INFO]: [nata0388: Teleported nata0388 to Aariaz_]
+[03:43:10] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[03:43:10] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[03:43:48] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[03:43:48] [Server thread/INFO]: nata0388 left the game
+[03:46:39] [Server thread/INFO]: Aariaz_ was slain by Zombie
+[03:47:01] [Server thread/INFO]: Aariaz_ issued server command: /gamemode creative
+[03:47:01] [Server thread/INFO]: [Aariaz_: Set own game mode to Creative Mode]
+[03:47:10] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
+[03:47:10] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
+[03:49:17] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
+[03:49:17] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
+[03:51:13] [Server thread/WARN]: TIAN2531 moved wrongly!
+[03:52:24] [Server thread/INFO]: TIAN2531 has made the advancement [Hot Stuff]
+[03:53:00] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 Aariaz_
+[03:53:00] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to Aariaz_]
+[03:54:39] [Server thread/INFO]: Aariaz_ issued server command: /gamemode creative
+[03:54:39] [Server thread/INFO]: [Aariaz_: Set own game mode to Creative Mode]
+[03:54:52] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
+[03:54:52] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
+[03:55:08] [User Authenticator #11/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[03:55:10] [Server thread/INFO]: nata0388 joined the game
+[03:55:10] [Server thread/INFO]: nata0388[/107.116.82.33:10334] logged in with entity id 57012 at ([world]744.2938530475479, 71.0, -339.4247914078844)
+[03:56:33] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ n
+[03:56:43] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[03:56:43] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[03:59:01] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[03:59:01] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[04:01:01] [Server thread/INFO]: Aariaz_ has made the advancement [Diamonds!]
+[04:01:25] [Server thread/INFO]: nata0388 has made the advancement [Take Aim]
+[04:01:47] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[04:01:47] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[04:10:26] [Server thread/INFO]: Aariaz_ has made the advancement [Hot Stuff]
+[04:16:36] [Server thread/INFO]: TIAN2531 was slain by nata0388
+[04:16:58] [Server thread/INFO]: Villager EntityVillager['Villager'/61587, l='ServerLevel[world]', x=1140.41, y=68.00, z=-333.42] died, message: 'Villager was slain by Zombie'
+[04:17:01] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[04:17:01] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
+[04:20:00] [Server thread/INFO]: Aariaz_ was slain by Iron Golem
+[04:20:28] [Server thread/INFO]: Aariaz_ hit the ground too hard while trying to escape Iron Golem
+[04:22:10] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[04:22:10] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[04:22:10] [Server thread/INFO]: TIAN2531 left the game
+[04:25:26] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[04:25:26] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[04:25:26] [User Authenticator #12/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[04:25:26] [Server thread/INFO]: TIAN2531 joined the game
+[04:25:26] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 63960 at ([world]816.6277, 75.0, -374.76605)
+[04:27:34] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[04:27:34] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[04:27:43] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[04:27:43] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[04:28:00] [Server thread/INFO]: Aariaz_ went up in flames
+[04:28:06] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[04:28:06] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[04:28:10] [Server thread/WARN]: TIAN2531 moved too quickly! -14.07899999999995,0.4680800000000005,-1.3025200000000154
+[04:30:43] [Server thread/INFO]: TIAN2531 has made the advancement [Best Friends Forever]
+[04:32:43] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[04:32:43] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[04:32:43] [Server thread/WARN]: TIAN2531 moved too quickly! -114.42060664174414,2.0,59.19789002376581
+[04:32:43] [Server thread/WARN]: TIAN2531 moved too quickly! -114.42060664174414,2.0,59.19789002376581
+[04:35:43] [Server thread/INFO]: nata0388 issued server command: /tp nata0388 Aariaz_
+[04:35:43] [Server thread/INFO]: [nata0388: Teleported nata0388 to Aariaz_]
+[04:35:57] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[04:35:57] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
+[04:40:51] [Server thread/INFO]: Aariaz_ fell from a high place
+[04:40:54] [Server thread/INFO]: nata0388 issued server command: /tp TIAN2531 nata0388
+[04:40:54] [Server thread/INFO]: [nata0388: Teleported TIAN2531 to nata0388]
+[04:40:57] [Server thread/INFO]: TIAN2531 tried to swim in lava to escape nata0388
+[04:41:04] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[04:41:04] [Server thread/INFO]: nata0388 left the game
+[04:41:17] [Server thread/INFO]: Villager EntityVillager['Shepherd'/69464, l='ServerLevel[world]', x=1121.30, y=68.00, z=-342.58] died, message: 'Shepherd was slain by Zombie'
+[04:41:48] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[04:41:48] [Server thread/INFO]: Aariaz_ left the game
+[04:41:52] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[04:41:52] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[04:41:52] [Server thread/INFO]: TIAN2531 left the game
