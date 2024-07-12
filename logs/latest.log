@@ -205,3 +205,12 @@
 [16:20:23] [Server thread/INFO]: [nata0388: Set the time to 1000]
 [16:25:27] [Server thread/INFO]: nata0388 lost connection: Disconnected
 [16:25:27] [Server thread/INFO]: nata0388 left the game
+[18:07:40] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[18:07:40] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[18:07:40] [User Authenticator #7/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[18:07:40] [Server thread/INFO]: TIAN2531 joined the game
+[18:07:40] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 17195 at ([world]790.86633, 75.0, -380.2286)
+[18:09:08] [Server thread/INFO]: TIAN2531 burned to death
+[18:09:38] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[18:09:38] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[18:09:38] [Server thread/INFO]: TIAN2531 left the game
