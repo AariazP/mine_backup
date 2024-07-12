@@ -56,3 +56,11 @@
 [02:16:08] [Server thread/INFO]: Aariaz_ has made the advancement [Isn't It Iron Pick]
 [02:18:42] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
 [02:18:42] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[02:32:06] [Server thread/INFO]: TIAN2531 has made the advancement [Acquire Hardware]
+[02:50:07] [Server thread/INFO]: Villager EntityVillager['Cleric'/23069, l='ServerLevel[world]', x=1126.70, y=63.00, z=-370.30] died, message: 'Cleric was slain by Zombie'
+[02:54:11] [Server thread/INFO]: Aariaz_ issued server command: /time set night
+[02:54:11] [Server thread/INFO]: [Aariaz_: Set the time to 13000]
+[02:54:39] [Server thread/INFO]: TIAN2531 has made the advancement [Not Today, Thank You]
+[02:56:27] [Server thread/INFO]: Aariaz_ issued server command: /tp TIAN2531 Aariaz_
+[02:56:27] [Server thread/INFO]: [Aariaz_: Teleported TIAN2531 to Aariaz_]
+[02:56:27] [Server thread/WARN]: TIAN2531 moved too quickly! -174.81576429510733,-1.001339999999999,290.8559781797555
