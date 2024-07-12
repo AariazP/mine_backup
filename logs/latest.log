@@ -1,193 +1,193 @@
-[00:26:22] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
-[00:26:22] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
-[00:26:22] [User Authenticator #5/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
-[00:26:22] [Server thread/INFO]: TIAN2531 joined the game
-[00:26:22] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 11888 at ([world]1164.1732, 64.0, -409.7359)
-[00:31:06] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
-[00:31:06] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
-[00:31:06] [Server thread/INFO]: TIAN2531 left the game
-[01:36:49] [User Authenticator #6/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[01:36:54] [Server thread/INFO]: nata0388 joined the game
-[01:36:54] [Server thread/INFO]: nata0388[/107.116.82.33:10330] logged in with entity id 12643 at ([world]743.8763248289575, 71.0, -342.69456696963334)
-[01:37:28] [Server thread/INFO]: Villager EntityVillager['Villager'/12656, l='ServerLevel[world]', x=779.53, y=72.00, z=-371.22] died, message: 'Villager was slain by Zombie'
-[01:52:15] [User Authenticator #7/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
-[01:52:16] [Server thread/INFO]: Aariaz_ joined the game
-[01:52:16] [Server thread/INFO]: Aariaz_[/191.106.229.228:10325] logged in with entity id 15209 at ([world]13.606460167765114, 68.0, 6.081732509154752)
-[01:52:37] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[01:52:37] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[01:52:50] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
-[01:52:50] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
-[01:53:24] [Server thread/INFO]: nata0388 has made the advancement [Getting an Upgrade]
-[01:55:21] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
-[01:55:21] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
-[01:55:21] [User Authenticator #8/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
-[01:55:21] [Server thread/INFO]: TIAN2531 joined the game
-[01:55:21] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 16070 at ([world]1162.2115, 64.0, -409.30453)
-[01:55:33] [Server thread/INFO]: Aariaz_ issued server command: /tell besossssssss
-[01:55:47] [Server thread/INFO]: Aariaz_ issued server command: /tell TIAN2531 besossssssss
-[01:56:42] [Server thread/INFO]: Aariaz_ has made the advancement [Stone Age]
-[01:57:35] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[01:57:35] [Server thread/INFO]: nata0388 left the game
-[02:01:55] [Server thread/INFO]: Aariaz_ has made the advancement [Sweet Dreams]
-[02:03:15] [Server thread/INFO]: TIAN2531 blew up
-[02:05:26] [Server thread/INFO]: Aariaz_ has made the advancement [Getting an Upgrade]
-[02:05:42] [Server thread/INFO]: Aariaz_ hit the ground too hard while trying to escape Skeleton
-[02:05:57] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
-[02:05:57] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
-[02:06:44] [User Authenticator #9/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[02:06:48] [Server thread/INFO]: nata0388 joined the game
-[02:06:48] [Server thread/INFO]: nata0388[/107.116.82.33:10332] logged in with entity id 20594 at ([world]693.9505005085427, 63.0, -96.3359580166847)
-[02:06:56] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[02:06:56] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[02:07:22] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
-[02:07:22] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
-[02:09:19] [Server thread/INFO]: nata0388 issued server command: /tp nata0388 Aariaz_
-[02:09:19] [Server thread/INFO]: [nata0388: Teleported nata0388 to Aariaz_]
-[02:13:39] [Server thread/INFO]: Aariaz_ has made the advancement [Acquire Hardware]
-[02:14:10] [Server thread/INFO]: TIAN2531 has made the advancement [Monster Hunter]
-[02:15:19] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
-[02:15:19] [Server thread/INFO]: Aariaz_ left the game
-[02:15:25] [User Authenticator #10/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
-[02:15:26] [Server thread/INFO]: Aariaz_ joined the game
-[02:15:26] [Server thread/INFO]: Aariaz_[/191.106.229.228:10508] logged in with entity id 26437 at ([world]639.8383809029395, -6.0, -190.77954331015985)
-[02:15:33] [Server thread/WARN]: TIAN2531 moved wrongly!
-[02:15:34] [Server thread/WARN]: TIAN2531 moved wrongly!
-[02:15:34] [Server thread/WARN]: TIAN2531 moved wrongly!
-[02:16:08] [Server thread/INFO]: Aariaz_ has made the advancement [Isn't It Iron Pick]
-[02:18:42] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[02:18:42] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[02:32:06] [Server thread/INFO]: TIAN2531 has made the advancement [Acquire Hardware]
-[02:50:07] [Server thread/INFO]: Villager EntityVillager['Cleric'/23069, l='ServerLevel[world]', x=1126.70, y=63.00, z=-370.30] died, message: 'Cleric was slain by Zombie'
-[02:54:11] [Server thread/INFO]: Aariaz_ issued server command: /time set night
-[02:54:11] [Server thread/INFO]: [Aariaz_: Set the time to 13000]
-[02:54:39] [Server thread/INFO]: TIAN2531 has made the advancement [Not Today, Thank You]
-[02:56:27] [Server thread/INFO]: Aariaz_ issued server command: /tp TIAN2531 Aariaz_
-[02:56:27] [Server thread/INFO]: [Aariaz_: Teleported TIAN2531 to Aariaz_]
-[02:56:27] [Server thread/WARN]: TIAN2531 moved too quickly! -174.81576429510733,-1.001339999999999,290.8559781797555
-[03:01:12] [Server thread/INFO]: Aariaz_ was slain by Zombie
-[03:01:22] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
-[03:01:22] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
-[03:02:14] [Server thread/INFO]: Aariaz_ issued server command: /tp TIAN2531 Aariaz_
-[03:02:14] [Server thread/INFO]: [Aariaz_: Teleported TIAN2531 to Aariaz_]
-[03:02:23] [Server thread/INFO]: Aariaz_ issued server command: /time set night
-[03:02:23] [Server thread/INFO]: [Aariaz_: Set the time to 13000]
-[03:02:33] [Server thread/INFO]: nata0388 issued server command: /tp TIAN2531 nata0388
-[03:02:33] [Server thread/INFO]: [nata0388: Teleported TIAN2531 to nata0388]
-[03:02:33] [Server thread/WARN]: TIAN2531 moved too quickly! -46.89809541075476,-3.0,12.093932331404403
-[03:18:42] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[03:18:42] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[03:18:42] [Server thread/WARN]: TIAN2531 moved too quickly! 124.37829893958713,7.0,32.960593231682196
-[03:22:44] [Server thread/INFO]: Villager EntityVillager['Shepherd'/46453, l='ServerLevel[world]', x=1100.30, y=69.00, z=-343.30] died, message: 'Shepherd was slain by Zombie'
-[03:27:19] [Server thread/INFO]: Aariaz_ has made the advancement [Not Today, Thank You]
-[03:35:13] [Server thread/INFO]: Aariaz_ blew up
-[03:35:28] [Server thread/INFO]: Aariaz_ fell from a high place
-[03:35:56] [Server thread/INFO]: Aariaz_ issued server command: /gamemode creative
-[03:35:56] [Server thread/INFO]: [Aariaz_: Set own game mode to Creative Mode]
-[03:36:11] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
-[03:36:11] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
-[03:38:00] [Server thread/INFO]: Villager EntityVillager['Villager'/47602, l='ServerLevel[world]', x=752.81, y=70.00, z=-374.14] died, message: 'Villager was slain by Zombie'
-[03:39:55] [Server thread/INFO]: nata0388 issued server command: /tp nata0388 Aariaz_
-[03:39:55] [Server thread/INFO]: [nata0388: Teleported nata0388 to Aariaz_]
-[03:43:10] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[03:43:10] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[03:43:48] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[03:43:48] [Server thread/INFO]: nata0388 left the game
-[03:46:39] [Server thread/INFO]: Aariaz_ was slain by Zombie
-[03:47:01] [Server thread/INFO]: Aariaz_ issued server command: /gamemode creative
-[03:47:01] [Server thread/INFO]: [Aariaz_: Set own game mode to Creative Mode]
-[03:47:10] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
-[03:47:10] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
-[03:49:17] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
-[03:49:17] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
-[03:51:13] [Server thread/WARN]: TIAN2531 moved wrongly!
-[03:52:24] [Server thread/INFO]: TIAN2531 has made the advancement [Hot Stuff]
-[03:53:00] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 Aariaz_
-[03:53:00] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to Aariaz_]
-[03:54:39] [Server thread/INFO]: Aariaz_ issued server command: /gamemode creative
-[03:54:39] [Server thread/INFO]: [Aariaz_: Set own game mode to Creative Mode]
-[03:54:52] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
-[03:54:52] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
-[03:55:08] [User Authenticator #11/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[03:55:10] [Server thread/INFO]: nata0388 joined the game
-[03:55:10] [Server thread/INFO]: nata0388[/107.116.82.33:10334] logged in with entity id 57012 at ([world]744.2938530475479, 71.0, -339.4247914078844)
-[03:56:33] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ n
-[03:56:43] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[03:56:43] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[03:59:01] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[03:59:01] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[04:01:01] [Server thread/INFO]: Aariaz_ has made the advancement [Diamonds!]
-[04:01:25] [Server thread/INFO]: nata0388 has made the advancement [Take Aim]
-[04:01:47] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[04:01:47] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[04:10:26] [Server thread/INFO]: Aariaz_ has made the advancement [Hot Stuff]
-[04:16:36] [Server thread/INFO]: TIAN2531 was slain by nata0388
-[04:16:58] [Server thread/INFO]: Villager EntityVillager['Villager'/61587, l='ServerLevel[world]', x=1140.41, y=68.00, z=-333.42] died, message: 'Villager was slain by Zombie'
-[04:17:01] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[04:17:01] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:01] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:17:02] [Server thread/WARN]: TIAN2531 moved too quickly! -364.10108406353925,12.0,54.02136323101627
-[04:20:00] [Server thread/INFO]: Aariaz_ was slain by Iron Golem
-[04:20:28] [Server thread/INFO]: Aariaz_ hit the ground too hard while trying to escape Iron Golem
-[04:22:10] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
-[04:22:10] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
-[04:22:10] [Server thread/INFO]: TIAN2531 left the game
-[04:25:26] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
-[04:25:26] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
-[04:25:26] [User Authenticator #12/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
-[04:25:26] [Server thread/INFO]: TIAN2531 joined the game
-[04:25:26] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 63960 at ([world]816.6277, 75.0, -374.76605)
-[04:27:34] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[04:27:34] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[04:27:43] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[04:27:43] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[04:28:00] [Server thread/INFO]: Aariaz_ went up in flames
-[04:28:06] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
-[04:28:06] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
-[04:28:10] [Server thread/WARN]: TIAN2531 moved too quickly! -14.07899999999995,0.4680800000000005,-1.3025200000000154
-[04:30:43] [Server thread/INFO]: TIAN2531 has made the advancement [Best Friends Forever]
-[04:32:43] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[04:32:43] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[04:32:43] [Server thread/WARN]: TIAN2531 moved too quickly! -114.42060664174414,2.0,59.19789002376581
-[04:32:43] [Server thread/WARN]: TIAN2531 moved too quickly! -114.42060664174414,2.0,59.19789002376581
-[04:35:43] [Server thread/INFO]: nata0388 issued server command: /tp nata0388 Aariaz_
-[04:35:43] [Server thread/INFO]: [nata0388: Teleported nata0388 to Aariaz_]
-[04:35:57] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[04:35:57] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:35:57] [Server thread/WARN]: TIAN2531 moved too quickly! -220.9087248620068,-21.750812921255317,8.675116591101698
-[04:40:51] [Server thread/INFO]: Aariaz_ fell from a high place
-[04:40:54] [Server thread/INFO]: nata0388 issued server command: /tp TIAN2531 nata0388
-[04:40:54] [Server thread/INFO]: [nata0388: Teleported TIAN2531 to nata0388]
-[04:40:57] [Server thread/INFO]: TIAN2531 tried to swim in lava to escape nata0388
-[04:41:04] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[04:41:04] [Server thread/INFO]: nata0388 left the game
-[04:41:17] [Server thread/INFO]: Villager EntityVillager['Shepherd'/69464, l='ServerLevel[world]', x=1121.30, y=68.00, z=-342.58] died, message: 'Shepherd was slain by Zombie'
-[04:41:48] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
-[04:41:48] [Server thread/INFO]: Aariaz_ left the game
-[04:41:52] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
-[04:41:52] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
-[04:41:52] [Server thread/INFO]: TIAN2531 left the game
+[15:34:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:34:37] [ServerMain/INFO]: Loaded 1175 recipes
+[15:34:38] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[15:34:38] [Server thread/INFO]: Loading properties
+[15:34:38] [Server thread/INFO]: This server is running CraftBukkit version 4195-Spigot-fcd94e2-f057cf4 (MC: 1.20.6) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[15:34:39] [Server thread/INFO]: Debug logging is disabled
+[15:34:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:34:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:34:39] [Server thread/INFO]: Default game type: SURVIVAL
+[15:34:39] [Server thread/INFO]: Generating keypair
+[15:34:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:34:39] [Server thread/INFO]: Using epoll channel type
+[15:34:40] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.0.1
+[15:34:40] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
+[15:34:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:34:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:34:41] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.4.0-SNAPSHOT
+[15:34:41] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[15:34:42] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[15:34:42] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[15:34:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:34:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:34:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:34:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:34:42] [Server thread/INFO]: Preparing level "world"
+[15:34:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:34:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:34:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:34:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:34:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:34:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:34:42] [Server thread/INFO]: Max TNT Explosions: 100
+[15:34:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:34:42] [Server thread/INFO]: Mob Spawn Range: 6
+[15:34:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:34:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:34:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:34:42] [Server thread/INFO]: View Distance: 10
+[15:34:42] [Server thread/INFO]: Simulation Distance: 10
+[15:34:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:34:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:34:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:34:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:34:43] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:34:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:34:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:34:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:34:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:34:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:34:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:34:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:34:43] [Server thread/INFO]: Mob Spawn Range: 6
+[15:34:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:34:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:34:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:34:43] [Server thread/INFO]: View Distance: 10
+[15:34:43] [Server thread/INFO]: Simulation Distance: 10
+[15:34:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:34:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:34:43] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:34:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:34:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:34:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:34:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:34:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:34:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:34:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:34:45] [Server thread/INFO]: Max TNT Explosions: 100
+[15:34:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:34:45] [Server thread/INFO]: Mob Spawn Range: 6
+[15:34:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:34:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:34:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:34:45] [Server thread/INFO]: View Distance: 10
+[15:34:45] [Server thread/INFO]: Simulation Distance: 10
+[15:34:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:34:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:34:45] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:34:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:34:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:34:47] [Server thread/INFO]: Time elapsed: 1859 ms
+[15:34:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:34:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:34:47] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[15:34:48] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[15:34:48] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[15:34:49] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[15:34:49] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[15:34:49] [Server thread/INFO]: Time elapsed: 2734 ms
+[15:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:34:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:34:50] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[15:34:50] [Server thread/INFO]: Time elapsed: 824 ms
+[15:34:50] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[15:34:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.5-1.20.6 (766)
+[15:34:50] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[15:34:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:34:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:34:50] [Server thread/INFO]: [Geyser-Spigot] 
+[15:34:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b599 (git-master-2a6025f)
+[15:34:50] [Server thread/INFO]: [Geyser-Spigot] 
+[15:34:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:34:55] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[15:34:55] [Server thread/INFO]: [Geyser-Spigot] Done (5.067s)! Run /geyser help for help!
+[15:34:56] [Server thread/INFO]: Done (13.300s)! For help, type "help"
+[15:34:56] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:35:48] [User Authenticator #1/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[15:35:49] [Server thread/INFO]: nata0388 joined the game
+[15:35:49] [Server thread/INFO]: nata0388[/201.234.186.194:49361] logged in with entity id 22 at ([world]730.1092325501959, 70.0, -357.0840367512027)
+[15:36:07] [User Authenticator #2/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[15:36:09] [Server thread/INFO]: Aariaz_ joined the game
+[15:36:09] [Server thread/INFO]: Aariaz_[/191.106.196.228:20007] logged in with entity id 358 at ([world]817.8108110853933, 43.0, -360.992945291289)
+[15:36:36] [Server thread/INFO]: nata0388 issued server command: /time set day
+[15:36:36] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[15:36:41] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[15:36:41] [Server thread/INFO]: Aariaz_ left the game
+[15:36:42] [User Authenticator #3/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[15:36:43] [Server thread/INFO]: Aariaz_ joined the game
+[15:36:43] [Server thread/INFO]: Aariaz_[/191.106.196.228:20035] logged in with entity id 457 at ([world]816.6324593030924, 45.0, -351.9724645632356)
+[15:37:26] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[15:37:26] [Server thread/INFO]: Aariaz_ left the game
+[15:37:28] [User Authenticator #4/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[15:37:29] [Server thread/INFO]: Aariaz_ joined the game
+[15:37:29] [Server thread/INFO]: Aariaz_[/191.106.196.228:20071] logged in with entity id 856 at ([world]819.6142875248815, 75.0, -356.45655723473095)
+[15:43:17] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[15:43:17] [Server thread/INFO]: Aariaz_ left the game
+[15:46:37] [Server thread/INFO]: nata0388 issued server command: /time set day
+[15:46:37] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[15:52:37] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[15:52:37] [Server thread/INFO]: nata0388 left the game
+[15:52:51] [User Authenticator #5/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[15:52:53] [Server thread/INFO]: nata0388 joined the game
+[15:52:53] [Server thread/INFO]: nata0388[/166.172.58.120:44508] logged in with entity id 6279 at ([world]1371.3460082240654, 62.544802443026185, -877.2067418208186)
+[15:56:06] [Server thread/INFO]: nata0388 issued server command: /time set day
+[15:56:06] [Server thread/INFO]: [nata0388: Set the time to 1000]
