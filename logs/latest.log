@@ -64,3 +64,18 @@
 [02:56:27] [Server thread/INFO]: Aariaz_ issued server command: /tp TIAN2531 Aariaz_
 [02:56:27] [Server thread/INFO]: [Aariaz_: Teleported TIAN2531 to Aariaz_]
 [02:56:27] [Server thread/WARN]: TIAN2531 moved too quickly! -174.81576429510733,-1.001339999999999,290.8559781797555
+[03:01:12] [Server thread/INFO]: Aariaz_ was slain by Zombie
+[03:01:22] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
+[03:01:22] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
+[03:02:14] [Server thread/INFO]: Aariaz_ issued server command: /tp TIAN2531 Aariaz_
+[03:02:14] [Server thread/INFO]: [Aariaz_: Teleported TIAN2531 to Aariaz_]
+[03:02:23] [Server thread/INFO]: Aariaz_ issued server command: /time set night
+[03:02:23] [Server thread/INFO]: [Aariaz_: Set the time to 13000]
+[03:02:33] [Server thread/INFO]: nata0388 issued server command: /tp TIAN2531 nata0388
+[03:02:33] [Server thread/INFO]: [nata0388: Teleported TIAN2531 to nata0388]
+[03:02:33] [Server thread/WARN]: TIAN2531 moved too quickly! -46.89809541075476,-3.0,12.093932331404403
+[03:18:42] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[03:18:42] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[03:18:42] [Server thread/WARN]: TIAN2531 moved too quickly! 124.37829893958713,7.0,32.960593231682196
+[03:22:44] [Server thread/INFO]: Villager EntityVillager['Shepherd'/46453, l='ServerLevel[world]', x=1100.30, y=69.00, z=-343.30] died, message: 'Shepherd was slain by Zombie'
+[03:27:19] [Server thread/INFO]: Aariaz_ has made the advancement [Not Today, Thank You]
