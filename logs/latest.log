@@ -3,3 +3,6 @@
 [00:26:22] [User Authenticator #5/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
 [00:26:22] [Server thread/INFO]: TIAN2531 joined the game
 [00:26:22] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 11888 at ([world]1164.1732, 64.0, -409.7359)
+[00:31:06] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[00:31:06] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[00:31:06] [Server thread/INFO]: TIAN2531 left the game
