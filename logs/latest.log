@@ -191,3 +191,17 @@
 [15:52:53] [Server thread/INFO]: nata0388[/166.172.58.120:44508] logged in with entity id 6279 at ([world]1371.3460082240654, 62.544802443026185, -877.2067418208186)
 [15:56:06] [Server thread/INFO]: nata0388 issued server command: /time set day
 [15:56:06] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[16:07:42] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/10104, l='ServerLevel[world]', x=1209.56, y=69.00, z=-1071.28] died, message: 'Leatherworker was slain by Zombie'
+[16:10:39] [Server thread/INFO]: nata0388 issued server command: /time set day
+[16:10:39] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[16:14:58] [User Authenticator #6/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[16:14:59] [Server thread/INFO]: Aariaz_ joined the game
+[16:14:59] [Server thread/INFO]: Aariaz_[/191.106.196.228:20174] logged in with entity id 13391 at ([world]818.0357933534343, 43.0, -362.9228700730088)
+[16:15:10] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[16:15:10] [Server thread/INFO]: Aariaz_ left the game
+[16:17:16] [Server thread/INFO]: nata0388 issued server command: /weather clear
+[16:17:16] [Server thread/INFO]: [nata0388: Set the weather to clear]
+[16:20:23] [Server thread/INFO]: nata0388 issued server command: /time set day
+[16:20:23] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[16:25:27] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[16:25:27] [Server thread/INFO]: nata0388 left the game
