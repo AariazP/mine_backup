@@ -6,3 +6,53 @@
 [00:31:06] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
 [00:31:06] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
 [00:31:06] [Server thread/INFO]: TIAN2531 left the game
+[01:36:49] [User Authenticator #6/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[01:36:54] [Server thread/INFO]: nata0388 joined the game
+[01:36:54] [Server thread/INFO]: nata0388[/107.116.82.33:10330] logged in with entity id 12643 at ([world]743.8763248289575, 71.0, -342.69456696963334)
+[01:37:28] [Server thread/INFO]: Villager EntityVillager['Villager'/12656, l='ServerLevel[world]', x=779.53, y=72.00, z=-371.22] died, message: 'Villager was slain by Zombie'
+[01:52:15] [User Authenticator #7/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[01:52:16] [Server thread/INFO]: Aariaz_ joined the game
+[01:52:16] [Server thread/INFO]: Aariaz_[/191.106.229.228:10325] logged in with entity id 15209 at ([world]13.606460167765114, 68.0, 6.081732509154752)
+[01:52:37] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[01:52:37] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[01:52:50] [Server thread/INFO]: Aariaz_ issued server command: /gamemode survival
+[01:52:50] [Server thread/INFO]: [Aariaz_: Set own game mode to Survival Mode]
+[01:53:24] [Server thread/INFO]: nata0388 has made the advancement [Getting an Upgrade]
+[01:55:21] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[01:55:21] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[01:55:21] [User Authenticator #8/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[01:55:21] [Server thread/INFO]: TIAN2531 joined the game
+[01:55:21] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 16070 at ([world]1162.2115, 64.0, -409.30453)
+[01:55:33] [Server thread/INFO]: Aariaz_ issued server command: /tell besossssssss
+[01:55:47] [Server thread/INFO]: Aariaz_ issued server command: /tell TIAN2531 besossssssss
+[01:56:42] [Server thread/INFO]: Aariaz_ has made the advancement [Stone Age]
+[01:57:35] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[01:57:35] [Server thread/INFO]: nata0388 left the game
+[02:01:55] [Server thread/INFO]: Aariaz_ has made the advancement [Sweet Dreams]
+[02:03:15] [Server thread/INFO]: TIAN2531 blew up
+[02:05:26] [Server thread/INFO]: Aariaz_ has made the advancement [Getting an Upgrade]
+[02:05:42] [Server thread/INFO]: Aariaz_ hit the ground too hard while trying to escape Skeleton
+[02:05:57] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
+[02:05:57] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
+[02:06:44] [User Authenticator #9/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[02:06:48] [Server thread/INFO]: nata0388 joined the game
+[02:06:48] [Server thread/INFO]: nata0388[/107.116.82.33:10332] logged in with entity id 20594 at ([world]693.9505005085427, 63.0, -96.3359580166847)
+[02:06:56] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[02:06:56] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[02:07:22] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ TIAN2531
+[02:07:22] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to TIAN2531]
+[02:09:19] [Server thread/INFO]: nata0388 issued server command: /tp nata0388 Aariaz_
+[02:09:19] [Server thread/INFO]: [nata0388: Teleported nata0388 to Aariaz_]
+[02:13:39] [Server thread/INFO]: Aariaz_ has made the advancement [Acquire Hardware]
+[02:14:10] [Server thread/INFO]: TIAN2531 has made the advancement [Monster Hunter]
+[02:15:19] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[02:15:19] [Server thread/INFO]: Aariaz_ left the game
+[02:15:25] [User Authenticator #10/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[02:15:26] [Server thread/INFO]: Aariaz_ joined the game
+[02:15:26] [Server thread/INFO]: Aariaz_[/191.106.229.228:10508] logged in with entity id 26437 at ([world]639.8383809029395, -6.0, -190.77954331015985)
+[02:15:33] [Server thread/WARN]: TIAN2531 moved wrongly!
+[02:15:34] [Server thread/WARN]: TIAN2531 moved wrongly!
+[02:15:34] [Server thread/WARN]: TIAN2531 moved wrongly!
+[02:16:08] [Server thread/INFO]: Aariaz_ has made the advancement [Isn't It Iron Pick]
+[02:18:42] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[02:18:42] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
