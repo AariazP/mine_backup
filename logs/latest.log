@@ -47,3 +47,15 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[10:35:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[10:35:28] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[10:35:28] [User Authenticator #8/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[10:35:28] [Server thread/INFO]: TIAN2531 joined the game
+[10:35:28] [Server thread/INFO]: TIAN2531[/191.95.38.143:0] logged in with entity id 17972 at ([world]1129.2133, 63.0, -386.90097)
+[10:38:00] [Server thread/INFO]: TIAN2531 was slain by Zombie
+[10:38:09] [Server thread/INFO]: Villager EntityVillager['Shepherd'/18711, l='ServerLevel[world]', x=1102.70, y=73.00, z=-324.87] died, message: 'Shepherd was slain by Zombie'
+[10:38:42] [Server thread/INFO]: TIAN2531 issued server command: /time set day
+[10:38:42] [Server thread/INFO]: [TIAN2531: Set the time to 1000]
+[10:40:11] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[10:40:11] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[10:40:11] [Server thread/INFO]: TIAN2531 left the game
