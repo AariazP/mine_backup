@@ -147,3 +147,22 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [11:58:33] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
 [11:58:33] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
 [11:58:33] [Server thread/INFO]: TIAN2531 left the game
+[12:06:14] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[12:06:14] [User Authenticator #12/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[12:06:14] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[12:06:14] [Server thread/INFO]: TIAN2531 joined the game
+[12:06:14] [Server thread/INFO]: TIAN2531[/191.95.38.188:0] logged in with entity id 28777 at ([world]1165.327, 64.0, -409.92044)
+[12:06:59] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[12:06:59] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[12:06:59] [Server thread/WARN]: TIAN2531 moved too quickly! -413.0895488996166,6.0,13.536439780010994
+[12:07:10] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[12:07:10] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[12:08:02] [Server thread/INFO]: nata0388 issued server command: /time set day
+[12:08:02] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[12:08:12] [Server thread/INFO]: nata0388 has made the advancement [The Cutest Predator]
+[12:10:28] [Server thread/INFO]: nata0388 has made the advancement [Tactical Fishing]
+[12:12:10] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[12:12:10] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[12:12:10] [Server thread/INFO]: TIAN2531 left the game
+[12:23:58] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[12:23:58] [Server thread/INFO]: nata0388 left the game
