@@ -111,3 +111,39 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [11:22:06] [User Authenticator #9/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
 [11:22:08] [Server thread/INFO]: nata0388 joined the game
 [11:22:08] [Server thread/INFO]: nata0388[/166.176.121.44:64435] logged in with entity id 19341 at ([world]765.4861722981874, 72.0, -339.9105832012958)
+[11:30:52] [Server thread/INFO]: nata0388 issued server command: /time set day
+[11:30:52] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[11:31:01] [Server thread/INFO]: nata0388 issued server command: /weather clear
+[11:31:01] [Server thread/INFO]: [nata0388: Set the weather to clear]
+[11:34:01] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[11:34:01] [localSession-7-4/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[11:34:01] [User Authenticator #10/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[11:34:02] [Server thread/INFO]: TIAN2531 joined the game
+[11:34:02] [Server thread/INFO]: TIAN2531[/201.234.186.194:0] logged in with entity id 21327 at ([world]1083.7405, 74.0, -335.6689)
+[11:35:06] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[11:35:06] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[11:35:06] [Server thread/WARN]: TIAN2531 moved too quickly! -298.84463870419756,0.0,-17.97333180491472
+[11:37:12] [Server thread/WARN]: TIAN2531 moved too quickly! 7.326830000000086,-3.0,-6.133960000000002
+[11:37:38] [localSession-7-4/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client timed out
+[11:37:38] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[11:37:38] [Server thread/INFO]: TIAN2531 left the game
+[11:38:14] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[11:38:14] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[11:38:14] [User Authenticator #11/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[11:38:14] [Server thread/INFO]: TIAN2531 joined the game
+[11:38:14] [Server thread/INFO]: TIAN2531[/191.95.38.188:0] logged in with entity id 22086 at ([world]806.1365, 75.0, -353.09836)
+[11:39:06] [Server thread/INFO]: TIAN2531 burned to death
+[11:50:27] [Server thread/INFO]: nata0388 issued server command: /gamemode creative
+[11:50:27] [Server thread/INFO]: [nata0388: Set own game mode to Creative Mode]
+[11:55:00] [Server thread/INFO]: nata0388 issued server command: /gamemode survival
+[11:55:00] [Server thread/INFO]: [nata0388: Set own game mode to Survival Mode]
+[11:56:46] [Server thread/WARN]: TIAN2531 moved wrongly!
+[11:56:46] [Server thread/WARN]: TIAN2531 moved wrongly!
+[11:56:46] [Server thread/WARN]: TIAN2531 moved wrongly!
+[11:57:12] [Server thread/INFO]: nata0388 issued server command: /time
+[11:57:22] [Server thread/INFO]: nata0388 issued server command: /time se
+[11:57:44] [Server thread/INFO]: nata0388 issued server command: /time set day
+[11:57:44] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[11:58:33] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[11:58:33] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[11:58:33] [Server thread/INFO]: TIAN2531 left the game

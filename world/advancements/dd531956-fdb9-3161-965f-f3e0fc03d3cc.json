@@ -1534,5 +1534,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-07-13 11:54:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-07-13 11:32:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-07-13 11:32:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-07-13 11:32:52 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
