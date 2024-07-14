@@ -215,3 +215,51 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[23:08:49] [User Authenticator #13/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[23:08:50] [Server thread/INFO]: Aariaz_ joined the game
+[23:08:50] [Server thread/INFO]: Aariaz_[/201.234.186.194:49216] logged in with entity id 31979 at ([world]818.0357933534343, 43.0, -362.9228700730088)
+[23:16:32] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[23:16:32] [Server thread/INFO]: Aariaz_ left the game
+[23:18:03] [User Authenticator #14/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[23:18:04] [Server thread/INFO]: Aariaz_ joined the game
+[23:18:04] [Server thread/INFO]: Aariaz_[/201.234.186.194:49224] logged in with entity id 33458 at ([world]621.6999999880791, 60.0, -244.6137656175253)
+[23:18:32] [User Authenticator #15/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[23:18:33] [Server thread/INFO]: nata0388 joined the game
+[23:18:33] [Server thread/INFO]: nata0388[/201.234.186.194:49455] logged in with entity id 33720 at ([world]784.1412662525706, 79.0, -332.24028059837957)
+[23:21:00] [Server thread/INFO]: Aariaz_ was slain by Zombie Villager
+[23:21:39] [Server thread/INFO]: Aariaz_ lost connection: Disconnected
+[23:21:39] [Server thread/INFO]: Aariaz_ left the game
+[23:22:41] [User Authenticator #16/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[23:22:42] [Server thread/INFO]: Aariaz_ joined the game
+[23:22:42] [Server thread/INFO]: Aariaz_[/201.234.186.194:49249] logged in with entity id 34588 at ([world]830.1390123896679, 75.0, -359.0348206488934)
+[23:23:47] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[23:23:47] [Server thread/INFO]: nata0388 left the game
+[23:23:51] [User Authenticator #17/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[23:23:52] [Server thread/INFO]: nata0388 joined the game
+[23:23:52] [Server thread/INFO]: nata0388[/201.234.186.194:49458] logged in with entity id 34810 at ([world]744.3658673668459, 71.0, -335.6761431186202)
+[23:31:33] [Server thread/INFO]: Aariaz_ issued server command: /tp Aariaz_ nata0388
+[23:31:33] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[23:32:22] [Server thread/INFO]: Aariaz_ issued server command: /tp nata0388
+[23:32:22] [Server thread/INFO]: [Aariaz_: Teleported Aariaz_ to nata0388]
+[23:34:27] [Server thread/INFO]: Aariaz_ burned to death
+[23:38:45] [Server thread/INFO]: Aariaz_ was slain by Zombie
+[23:39:58] [Server thread/WARN]: nata0388 was kicked for floating too long!
+[23:39:58] [Server thread/INFO]: nata0388 lost connection: Flying is not enabled on this server
+[23:39:58] [Server thread/INFO]: nata0388 left the game.
+[23:39:58] [Server thread/WARN]: handleDisconnection() called twice
+[23:40:21] [Server thread/INFO]: Aariaz_ was slain by Zombie
+[23:40:25] [User Authenticator #18/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[23:40:27] [Server thread/INFO]: nata0388 joined the game
+[23:40:27] [Server thread/INFO]: nata0388[/166.172.58.194:60716] logged in with entity id 38734 at ([world]738.4285655859826, 68.1770948867605, -365.4946231472146)
+[23:41:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Aariaz_> no
+[23:41:27] [Server thread/INFO]: nata0388 issued server command: /weather clear
+[23:41:27] [Server thread/INFO]: [nata0388: Set the weather to clear]
+[23:41:39] [Server thread/INFO]: nata0388 issued server command: /time set day
+[23:41:39] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[23:42:23] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/38772, l='ServerLevel[world]', x=725.39, y=66.00, z=-396.30] died, message: 'Toolsmith was slain by Aariaz_'
+[23:43:10] [Server thread/INFO]: nata0388 has made the advancement [Not Today, Thank You]
+[23:44:38] [Server thread/INFO]: nata0388 has made the advancement [Suit Up]
+[23:51:06] [Server thread/INFO]: Aariaz_ drowned
+[23:52:46] [Server thread/INFO]: Aariaz_ was slain by Zombie
+[23:53:27] [Server thread/INFO]: nata0388 issued server command: /time set day
+[23:53:27] [Server thread/INFO]: [nata0388: Set the time to 1000]

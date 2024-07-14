@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-07-13 23:28:31 -0500",
       "minecraft:frozen_river": "2024-07-11 21:07:03 -0500",
       "minecraft:forest": "2024-07-11 21:06:20 -0500",
       "minecraft:taiga": "2024-07-11 21:05:57 -0500",
@@ -1521,6 +1522,30 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-07-11 23:13:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-07-13 23:20:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-07-13 23:20:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-07-13 23:49:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-07-13 23:49:11 -0500"
     },
     "done": true
   },

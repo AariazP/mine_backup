@@ -316,6 +316,7 @@
       "cooked_porkchop": "2024-07-11 21:55:54 -0500",
       "mutton": "2024-07-11 16:34:50 -0500",
       "bread": "2024-07-11 17:33:51 -0500",
+      "cooked_mutton": "2024-07-13 23:31:13 -0500",
       "potato": "2024-07-11 21:20:21 -0500",
       "sweet_berries": "2024-07-11 20:40:41 -0500",
       "salmon": "2024-07-13 12:16:21 -0500",
@@ -1535,21 +1536,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2024-07-13 11:54:02 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-07-13 11:32:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "salmon_bucket": "2024-07-13 12:10:28 -0500"
     },
     "done": true
   },
@@ -1565,9 +1554,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-07-13 11:54:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-07-13 12:08:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2024-07-13 12:10:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-07-13 23:27:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-07-13 23:44:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-07-13 23:43:10 -0500"
     },
     "done": true
   },
