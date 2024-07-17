@@ -137,3 +137,8 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [23:24:07] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
 [23:24:07] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
 [23:24:07] [Server thread/WARN]: TIAN2531 moved too quickly! -307.18986309072807,13.897591921029857,96.8120919924902
+[23:31:51] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[23:31:51] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[23:31:51] [Server thread/INFO]: TIAN2531 left the game
+[23:35:31] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[23:35:31] [Server thread/INFO]: nata0388 left the game
