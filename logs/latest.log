@@ -111,3 +111,29 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [22:31:04] [Server thread/INFO]: nata0388[/201.234.186.194:49542] logged in with entity id 48085 at ([world]741.7644581449858, 71.0, -338.5137731277365)
 [22:52:05] [Server thread/INFO]: nata0388 issued server command: /gamemode creative
 [22:52:05] [Server thread/INFO]: [nata0388: Set own game mode to Creative Mode]
+[23:01:32] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/48129, l='ServerLevel[world]', x=733.04, y=69.00, z=-365.02] was struck by lightning EntityLightning['Lightning Bolt'/53321, l='ServerLevel[world]', x=733.50, y=69.00, z=-365.50].
+[23:01:45] [Server thread/INFO]: Villager EntityVillager['Butcher'/48150, l='ServerLevel[world]', x=786.73, y=79.00, z=-335.77] died, message: 'Butcher was slain by Zombie'
+[23:04:25] [Server thread/INFO]: nata0388 lost connection: Timed out
+[23:04:25] [Server thread/INFO]: nata0388 left the game.
+[23:04:25] [Server thread/WARN]: handleDisconnection() called twice
+[23:04:36] [User Authenticator #22/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[23:04:37] [Server thread/INFO]: nata0388 joined the game
+[23:04:37] [Server thread/INFO]: nata0388[/201.234.186.194:49543] logged in with entity id 53841 at ([world]773.7641029748123, 81.0, -287.4559207959898)
+[23:05:27] [Server thread/INFO]: nata0388 issued server command: /time set day
+[23:05:27] [Server thread/INFO]: [nata0388: Set the time to 1000]
+[23:21:24] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[23:21:24] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[23:21:24] [User Authenticator #23/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[23:21:24] [Server thread/INFO]: TIAN2531 joined the game
+[23:21:24] [Server thread/INFO]: TIAN2531[/191.95.39.66:0] logged in with entity id 56069 at ([world]745.2654, 69.0, -370.24323)
+[23:22:58] [Server thread/INFO]: TIAN2531 was poked to death by a sweet berry bush
+[23:23:24] [Server thread/INFO]: TIAN2531 issued server command: /defaultgamemode creative
+[23:23:24] [Server thread/INFO]: [TIAN2531: The default game mode is now Creative Mode]
+[23:23:41] [Server thread/INFO]: TIAN2531 issued server command: /defaultgamemode survival
+[23:23:41] [Server thread/INFO]: [TIAN2531: The default game mode is now Survival Mode]
+[23:23:43] [Server thread/INFO]: TIAN2531 issued server command: /gamemode creative
+[23:23:43] [Server thread/INFO]: [TIAN2531: Set own game mode to Creative Mode]
+[23:23:54] [Server thread/INFO]: Villager EntityVillager['Villager'/54019, l='ServerLevel[world]', x=733.12, y=68.94, z=-355.50] died, message: 'Villager was slain by Zombie'
+[23:24:07] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[23:24:07] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[23:24:07] [Server thread/WARN]: TIAN2531 moved too quickly! -307.18986309072807,13.897591921029857,96.8120919924902
