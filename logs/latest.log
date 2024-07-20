@@ -96,3 +96,17 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[23:38:17] [User Authenticator #24/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[23:38:21] [Server thread/INFO]: nata0388 joined the game
+[23:38:21] [Server thread/INFO]: nata0388[/166.171.249.139:15940] logged in with entity id 59620 at ([world]775.7263812283342, 83.6739224451145, -305.7640284157574)
+[23:51:16] [Server thread/INFO]: nata0388 has reached the goal [You Need a Mint]
+[23:53:27] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[23:53:27] [localSession-7-4/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[23:53:27] [User Authenticator #25/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[23:53:27] [Server thread/INFO]: TIAN2531 joined the game
+[23:53:27] [Server thread/INFO]: TIAN2531[/191.95.33.45:0] logged in with entity id 62472 at ([world]777.21155, 10.559947157191123, -294.4589)
+[23:55:23] [Server thread/WARN]: TIAN2531 moved too quickly! -10.219249999999988,0.2233500000000106,7.213149999999985
+[23:57:48] [Server thread/INFO]: Villager EntityVillager['Villager'/62577, l='ServerLevel[world]', x=751.05, y=72.00, z=-333.95] died, message: 'Villager was slain by Zombie'
+[23:58:50] [User Authenticator #26/INFO]: UUID of player Aariaz_ is 3ab3be42-83e7-332d-a311-559364951297
+[23:58:51] [Server thread/INFO]: Aariaz_ joined the game
+[23:58:51] [Server thread/INFO]: Aariaz_[/191.95.33.45:48422] logged in with entity id 63448 at ([world]730.2446832205313, 70.0, -341.0244135087194)
