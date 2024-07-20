@@ -318,6 +318,7 @@
       "bread": "2024-07-11 17:33:51 -0500",
       "cooked_mutton": "2024-07-13 23:31:13 -0500",
       "potato": "2024-07-11 21:20:21 -0500",
+      "rabbit": "2024-07-20 00:04:59 -0500",
       "sweet_berries": "2024-07-11 20:40:41 -0500",
       "salmon": "2024-07-13 12:16:21 -0500",
       "cooked_beef": "2024-07-11 23:19:03 -0500",
@@ -1842,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/repair_wolf_armor": {
+    "criteria": {
+      "repair_wolf_armor": "2024-07-20 00:03:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-07-19 23:48:29 -0500"
@@ -1860,6 +1867,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-07-20 00:03:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-07-20 00:03:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-07-19 23:48:29 -0500"
@@ -1869,6 +1888,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-07-19 23:48:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-07-20 00:03:32 -0500"
     },
     "done": true
   },

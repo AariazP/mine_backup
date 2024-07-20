@@ -11,8 +11,10 @@
       "minecraft:frozen_river": "2024-07-11 21:07:03 -0500",
       "minecraft:forest": "2024-07-11 21:06:20 -0500",
       "minecraft:taiga": "2024-07-11 21:05:57 -0500",
+      "minecraft:deep_dark": "2024-07-20 00:15:39 -0500",
       "minecraft:river": "2024-07-11 20:53:45 -0500",
       "minecraft:snowy_plains": "2024-07-11 16:04:40 -0500",
+      "minecraft:snowy_beach": "2024-07-20 00:14:07 -0500",
       "minecraft:plains": "2024-07-11 20:52:37 -0500"
     },
     "done": false
@@ -1546,6 +1548,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-07-13 23:49:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-07-20 00:02:12 -0500"
     },
     "done": true
   },
