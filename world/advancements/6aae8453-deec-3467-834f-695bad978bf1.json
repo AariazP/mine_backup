@@ -1678,23 +1678,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-07-22 17:52:24 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-07-22 17:49:35 -0500"
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_sherd": "2024-07-22 17:58:01 -0500"
+      "has_ender_eye": "2024-07-22 17:49:35 -0500"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-07-22 17:52:24 -0500"
+    },
+    "done": true
   },
   "minecraft:end/dragon_breath": {
     "criteria": {
@@ -1708,15 +1708,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_ender_eye": "2024-07-22 17:49:35 -0500"
+      "has_sherd": "2024-07-22 17:58:01 -0500"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-07-22 17:58:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-07-22 18:26:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-07-22 18:23:22 -0500"
     },
     "done": true
   },

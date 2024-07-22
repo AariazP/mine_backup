@@ -132,3 +132,11 @@
 [17:51:52] [Server thread/INFO]: nata0388 issued server command: /weather clear
 [17:51:52] [Server thread/INFO]: [nata0388: Set the weather to clear]
 [17:57:21] [Server thread/INFO]: TIAN2531 has reached the goal [You Need a Mint]
+[18:20:56] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[18:20:56] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[18:20:56] [Server thread/INFO]: TIAN2531 left the game
+[18:21:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[18:21:28] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[18:21:28] [User Authenticator #34/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[18:21:28] [Server thread/INFO]: TIAN2531 joined the game
+[18:21:28] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 84535 at ([world]779.769, 78.0, -277.50345)
