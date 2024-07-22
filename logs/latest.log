@@ -14,3 +14,9 @@
 [12:17:33] [Server thread/WARN]: handleDisconnection() called twice
 [12:34:51] [Server thread/INFO]: nata0388 lost connection: Disconnected
 [12:34:51] [Server thread/INFO]: nata0388 left the game
+[15:24:00] [User Authenticator #30/INFO]: UUID of player TolimaBoy is d31cacdb-fc5d-319d-a230-18dbbb515d48
+[15:24:01] [Server thread/INFO]: TolimaBoy joined the game
+[15:24:01] [Server thread/INFO]: TolimaBoy[/152.202.17.28:50938] logged in with entity id 74162 at ([world]-2.5, 69.0, -5.5)
+[15:25:35] [Server thread/INFO]: TolimaBoy has made the advancement [Monster Hunter]
+[15:25:42] [Server thread/INFO]: TolimaBoy lost connection: Disconnected
+[15:25:42] [Server thread/INFO]: TolimaBoy left the game
