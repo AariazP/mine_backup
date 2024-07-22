@@ -20,3 +20,18 @@
 [15:25:35] [Server thread/INFO]: TolimaBoy has made the advancement [Monster Hunter]
 [15:25:42] [Server thread/INFO]: TolimaBoy lost connection: Disconnected
 [15:25:42] [Server thread/INFO]: TolimaBoy left the game
+[17:14:49] [User Authenticator #31/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[17:14:50] [Server thread/INFO]: nata0388 joined the game
+[17:14:50] [Server thread/INFO]: nata0388[/201.234.186.194:49623] logged in with entity id 74601 at ([world]778.8331538862543, 78.0, -283.56629746048435)
+[17:17:29] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[17:17:29] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[17:17:29] [User Authenticator #32/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[17:17:30] [Server thread/INFO]: TIAN2531 joined the game
+[17:17:30] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 75157 at ([world]1245.9082, -31.83043, 114.37744)
+[17:18:15] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
+[17:18:15] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
+[17:18:15] [Server thread/WARN]: TIAN2531 moved too quickly! -468.93649621466284,123.0,-373.62856929553516
+[17:18:15] [Server thread/WARN]: TIAN2531 moved too quickly! -468.93649621466284,123.0,-373.62856929553516
+[17:20:00] [Server thread/INFO]: nata0388 has made the advancement [Smells Interesting]
+[17:21:34] [Server thread/INFO]: TIAN2531 has completed the challenge [Cover Me in Debris]
+[17:25:49] [Server thread/INFO]: TIAN2531 has made the advancement [Crafting a New Look]
