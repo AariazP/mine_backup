@@ -80,3 +80,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [10:27:17] [Server thread/INFO]: nata0388 joined the game
 [10:27:17] [Server thread/INFO]: nata0388[/166.171.251.157:26372] logged in with entity id 93980 at ([world]787.3908324048073, 84.0, -277.8397932840362)
 [10:27:25] [Server thread/INFO]: Villager EntityVillager['Villager'/94205, l='ServerLevel[world]', x=756.61, y=71.00, z=-347.61] died, message: 'Villager was slain by Zombie'
+[10:35:33] [Server thread/INFO]: nata0388 issued server command: /gamemode survival
+[10:35:33] [Server thread/INFO]: [nata0388: Set own game mode to Survival Mode]
+[10:46:18] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[10:46:18] [Server thread/INFO]: nata0388 left the game
