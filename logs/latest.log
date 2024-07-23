@@ -1,162 +1,4 @@
-[12:02:35] [User Authenticator #27/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[12:02:37] [Server thread/INFO]: nata0388 joined the game
-[12:02:37] [Server thread/INFO]: nata0388[/166.172.58.211:2124] logged in with entity id 68843 at ([world]778.8625966912786, 79.11650136792812, -305.8037038875005)
-[12:14:20] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[12:14:20] [Server thread/INFO]: nata0388 left the game
-[12:14:59] [User Authenticator #28/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[12:15:01] [Server thread/INFO]: nata0388 joined the game
-[12:15:01] [Server thread/INFO]: nata0388[/201.234.186.194:49614] logged in with entity id 70743 at ([world]790.8494449713864, 76.58250542857299, -278.5217640679206)
-[12:15:33] [Server thread/INFO]: nata0388 lost connection: Timed out
-[12:15:33] [Server thread/INFO]: nata0388 left the game
-[12:15:37] [User Authenticator #29/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[12:15:39] [Server thread/INFO]: nata0388 joined the game
-[12:15:39] [Server thread/INFO]: nata0388[/166.176.123.204:37124] logged in with entity id 71159 at ([world]790.8494449713864, 76.58250542857299, -278.5217640679206)
-[12:17:33] [Server thread/WARN]: handleDisconnection() called twice
-[12:34:51] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[12:34:51] [Server thread/INFO]: nata0388 left the game
-[15:24:00] [User Authenticator #30/INFO]: UUID of player TolimaBoy is d31cacdb-fc5d-319d-a230-18dbbb515d48
-[15:24:01] [Server thread/INFO]: TolimaBoy joined the game
-[15:24:01] [Server thread/INFO]: TolimaBoy[/152.202.17.28:50938] logged in with entity id 74162 at ([world]-2.5, 69.0, -5.5)
-[15:25:35] [Server thread/INFO]: TolimaBoy has made the advancement [Monster Hunter]
-[15:25:42] [Server thread/INFO]: TolimaBoy lost connection: Disconnected
-[15:25:42] [Server thread/INFO]: TolimaBoy left the game
-[17:14:49] [User Authenticator #31/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[17:14:50] [Server thread/INFO]: nata0388 joined the game
-[17:14:50] [Server thread/INFO]: nata0388[/201.234.186.194:49623] logged in with entity id 74601 at ([world]778.8331538862543, 78.0, -283.56629746048435)
-[17:17:29] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
-[17:17:29] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
-[17:17:29] [User Authenticator #32/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
-[17:17:30] [Server thread/INFO]: TIAN2531 joined the game
-[17:17:30] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 75157 at ([world]1245.9082, -31.83043, 114.37744)
-[17:18:15] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[17:18:15] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[17:18:15] [Server thread/WARN]: TIAN2531 moved too quickly! -468.93649621466284,123.0,-373.62856929553516
-[17:18:15] [Server thread/WARN]: TIAN2531 moved too quickly! -468.93649621466284,123.0,-373.62856929553516
-[17:20:00] [Server thread/INFO]: nata0388 has made the advancement [Smells Interesting]
-[17:21:34] [Server thread/INFO]: TIAN2531 has completed the challenge [Cover Me in Debris]
-[17:25:49] [Server thread/INFO]: TIAN2531 has made the advancement [Crafting a New Look]
-[17:35:41] [Server thread/INFO]: TIAN2531 has made the advancement [Diamonds!]
-[17:43:35] [Server thread/INFO]: nata0388 issued server command: /kill TIAN2531
-[17:43:35] [Server thread/INFO]: TIAN2531 was killed
-[17:43:35] [Server thread/INFO]: [nata0388: Killed TIAN2531]
-[17:44:04] [Server thread/INFO]: TIAN2531 has made the advancement [Suit Up]
-[17:44:47] [Server thread/INFO]: nata0388 has made the advancement [Hot Stuff]
-[17:45:00] [Server thread/INFO]: nata0388 has completed the challenge [Cover Me in Debris]
-[17:45:15] [Server thread/INFO]: nata0388 issued server command: /tp TIAN2531 nata0388
-[17:45:15] [Server thread/INFO]: [nata0388: Teleported TIAN2531 to nata0388]
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:45:15] [Server thread/WARN]: TIAN2531 moved too quickly! -377.0449605833152,14.0,135.97924249932834
-[17:47:00] [localSession-7-1/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
-[17:47:00] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
-[17:47:00] [Server thread/INFO]: TIAN2531 left the game
-[17:47:24] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
-[17:47:24] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
-[17:47:24] [User Authenticator #33/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
-[17:47:24] [Server thread/INFO]: TIAN2531 joined the game
-[17:47:24] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 79727 at ([world]675.8873, 61.192209998514976, -336.10645)
-[17:51:16] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[17:51:16] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:16] [Server thread/WARN]: TIAN2531 moved too quickly! 110.46491474157926,165.11716851466792,-209.05849005739498
-[17:51:47] [Server thread/INFO]: TIAN2531 issued server command: /tp TIAN2531 nata0388
-[17:51:47] [Server thread/INFO]: [TIAN2531: Teleported TIAN2531 to nata0388]
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:47] [Server thread/WARN]: TIAN2531 moved too quickly! -22.983597982615493,4.386520000000004,153.02963573802623
-[17:51:52] [Server thread/INFO]: nata0388 issued server command: /weather clear
-[17:51:52] [Server thread/INFO]: [nata0388: Set the weather to clear]
-[17:57:21] [Server thread/INFO]: TIAN2531 has reached the goal [You Need a Mint]
-[18:20:56] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
-[18:20:56] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
-[18:20:56] [Server thread/INFO]: TIAN2531 left the game
-[18:21:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
-[18:21:28] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
-[18:21:28] [User Authenticator #34/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
-[18:21:28] [Server thread/INFO]: TIAN2531 joined the game
-[18:21:28] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 84535 at ([world]779.769, 78.0, -277.50345)
-[18:40:19] [Server thread/WARN]: nata0388 moved too quickly! 3.6868352202621963,1.2482160966528681,-10.319758313983698
-[18:49:26] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[18:49:26] [Server thread/INFO]: nata0388 left the game
-[18:49:57] [User Authenticator #35/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[18:49:58] [Server thread/INFO]: nata0388 joined the game
-[18:49:58] [Server thread/INFO]: nata0388[/201.234.186.194:49703] logged in with entity id 88391 at ([world]775.5307026861847, 78.0, -284.6299283529433)
-[18:55:48] [Server thread/INFO]: nata0388 lost connection: Timed out
-[18:55:48] [Server thread/INFO]: nata0388 left the game.
-[18:56:25] [User Authenticator #36/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[18:56:27] [Server thread/INFO]: nata0388 joined the game
-[18:56:27] [Server thread/INFO]: nata0388[/166.171.249.178:11603] logged in with entity id 89367 at ([world]776.7102316159105, 84.0, -281.1885455044158)
-[19:19:13] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[19:19:13] [Server thread/INFO]: nata0388 left the game
-[19:20:36] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
-[19:20:36] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
-[19:20:36] [Server thread/INFO]: TIAN2531 left the game
-[20:22:08] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:57:52] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
@@ -190,70 +32,35 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:66) ~[?:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:52:22] [User Authenticator #37/INFO]: UUID of player TolimaBoy is d31cacdb-fc5d-319d-a230-18dbbb515d48
-[21:52:23] [Server thread/INFO]: TolimaBoy joined the game
-[21:52:23] [Server thread/INFO]: TolimaBoy[/152.202.17.28:51908] logged in with entity id 92821 at ([world]-38.86659355483689, 70.0, -17.580396037858463)
-[21:52:29] [Server thread/INFO]: TolimaBoy lost connection: Disconnected
-[21:52:29] [Server thread/INFO]: TolimaBoy left the game
-[23:57:54] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:543) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager.c(NetworkManager.java:366) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.NetworkManager.b(NetworkManager.java:356) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:334) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:328) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:164) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:110) ~[?:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:66) ~[?:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:447) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:454) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
