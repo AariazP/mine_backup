@@ -140,3 +140,14 @@
 [18:21:28] [User Authenticator #34/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
 [18:21:28] [Server thread/INFO]: TIAN2531 joined the game
 [18:21:28] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 84535 at ([world]779.769, 78.0, -277.50345)
+[18:40:19] [Server thread/WARN]: nata0388 moved too quickly! 3.6868352202621963,1.2482160966528681,-10.319758313983698
+[18:49:26] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[18:49:26] [Server thread/INFO]: nata0388 left the game
+[18:49:57] [User Authenticator #35/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[18:49:58] [Server thread/INFO]: nata0388 joined the game
+[18:49:58] [Server thread/INFO]: nata0388[/201.234.186.194:49703] logged in with entity id 88391 at ([world]775.5307026861847, 78.0, -284.6299283529433)
+[18:55:48] [Server thread/INFO]: nata0388 lost connection: Timed out
+[18:55:48] [Server thread/INFO]: nata0388 left the game.
+[18:56:25] [User Authenticator #36/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[18:56:27] [Server thread/INFO]: nata0388 joined the game
+[18:56:27] [Server thread/INFO]: nata0388[/166.171.249.178:11603] logged in with entity id 89367 at ([world]776.7102316159105, 84.0, -281.1885455044158)
