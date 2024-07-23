@@ -151,3 +151,8 @@
 [18:56:25] [User Authenticator #36/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
 [18:56:27] [Server thread/INFO]: nata0388 joined the game
 [18:56:27] [Server thread/INFO]: nata0388[/166.171.249.178:11603] logged in with entity id 89367 at ([world]776.7102316159105, 84.0, -281.1885455044158)
+[19:19:13] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[19:19:13] [Server thread/INFO]: nata0388 left the game
+[19:20:36] [localSession-7-3/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[19:20:36] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[19:20:36] [Server thread/INFO]: TIAN2531 left the game
