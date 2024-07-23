@@ -66,3 +66,17 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[10:24:56] [User Authenticator #38/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[10:24:58] [Server thread/INFO]: nata0388 joined the game
+[10:24:58] [Server thread/INFO]: nata0388[/166.171.251.157:46140] logged in with entity id 93038 at ([world]779.5567669883801, 84.0, -277.18445515931853)
+[10:25:55] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[10:25:55] [Server thread/INFO]: nata0388 left the game
+[10:26:00] [User Authenticator #39/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[10:26:02] [Server thread/INFO]: nata0388 joined the game
+[10:26:02] [Server thread/INFO]: nata0388[/166.171.251.157:44170] logged in with entity id 93538 at ([world]787.3908324048073, 84.0, -277.8397932840362)
+[10:26:09] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[10:26:09] [Server thread/INFO]: nata0388 left the game
+[10:27:14] [User Authenticator #40/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[10:27:17] [Server thread/INFO]: nata0388 joined the game
+[10:27:17] [Server thread/INFO]: nata0388[/166.171.251.157:26372] logged in with entity id 93980 at ([world]787.3908324048073, 84.0, -277.8397932840362)
+[10:27:25] [Server thread/INFO]: Villager EntityVillager['Villager'/94205, l='ServerLevel[world]', x=756.61, y=71.00, z=-347.61] died, message: 'Villager was slain by Zombie'
