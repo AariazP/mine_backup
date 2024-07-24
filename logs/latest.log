@@ -47,3 +47,12 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[10:46:22] [User Authenticator #41/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[10:46:23] [Server thread/INFO]: nata0388 joined the game
+[10:46:23] [Server thread/INFO]: nata0388[/201.234.186.194:49766] logged in with entity id 96988 at ([world]762.5038688592175, 71.0, -353.2353683499581)
+[10:47:04] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[10:47:04] [Server thread/INFO]: nata0388 left the game
+[10:47:29] [User Authenticator #42/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[10:47:31] [Server thread/INFO]: nata0388 joined the game
+[10:47:31] [Server thread/INFO]: nata0388[/166.172.59.224:7692] logged in with entity id 97476 at ([world]738.366742887745, 70.0, -329.4066412646752)
+[10:50:56] [Server thread/INFO]: Villager EntityVillager['Villager'/97734, l='ServerLevel[world]', x=797.39, y=77.00, z=-374.61] died, message: 'Villager was slain by Zombie'
