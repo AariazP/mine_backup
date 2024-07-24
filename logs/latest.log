@@ -56,3 +56,13 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [10:47:31] [Server thread/INFO]: nata0388 joined the game
 [10:47:31] [Server thread/INFO]: nata0388[/166.172.59.224:7692] logged in with entity id 97476 at ([world]738.366742887745, 70.0, -329.4066412646752)
 [10:50:56] [Server thread/INFO]: Villager EntityVillager['Villager'/97734, l='ServerLevel[world]', x=797.39, y=77.00, z=-374.61] died, message: 'Villager was slain by Zombie'
+[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 0.3580504819371413
+[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 0.9092818944851047
+[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 1.4622470729449901
+[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 2.0161399549767793
+[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 2.5705292326934455
+[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 2.8929731062311816
+[11:09:35] [Server thread/INFO]: nata0388 has made the advancement [You've Got a Friend in Me]
+[11:12:48] [Server thread/INFO]: nata0388 has made the advancement [Bee Our Guest]
+[11:18:35] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[11:18:35] [Server thread/INFO]: nata0388 left the game
