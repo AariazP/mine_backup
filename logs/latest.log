@@ -1,4 +1,7 @@
-[05:59:28] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[11:22:46] [User Authenticator #43/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[11:22:48] [Server thread/INFO]: nata0388 joined the game
+[11:22:48] [Server thread/INFO]: nata0388[/201.234.186.194:49786] logged in with entity id 102723 at ([world]784.3741712468761, 78.0, -346.2435529471958)
+[11:24:42] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4195-Spigot-fcd94e2-f057cf4]
@@ -47,22 +50,4 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[10:46:22] [User Authenticator #41/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[10:46:23] [Server thread/INFO]: nata0388 joined the game
-[10:46:23] [Server thread/INFO]: nata0388[/201.234.186.194:49766] logged in with entity id 96988 at ([world]762.5038688592175, 71.0, -353.2353683499581)
-[10:47:04] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[10:47:04] [Server thread/INFO]: nata0388 left the game
-[10:47:29] [User Authenticator #42/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
-[10:47:31] [Server thread/INFO]: nata0388 joined the game
-[10:47:31] [Server thread/INFO]: nata0388[/166.172.59.224:7692] logged in with entity id 97476 at ([world]738.366742887745, 70.0, -329.4066412646752)
-[10:50:56] [Server thread/INFO]: Villager EntityVillager['Villager'/97734, l='ServerLevel[world]', x=797.39, y=77.00, z=-374.61] died, message: 'Villager was slain by Zombie'
-[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 0.3580504819371413
-[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 0.9092818944851047
-[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 1.4622470729449901
-[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 2.0161399549767793
-[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 2.5705292326934455
-[11:00:21] [Server thread/WARN]: Horse (vehicle of nata0388) moved wrongly! 2.8929731062311816
-[11:09:35] [Server thread/INFO]: nata0388 has made the advancement [You've Got a Friend in Me]
-[11:12:48] [Server thread/INFO]: nata0388 has made the advancement [Bee Our Guest]
-[11:18:35] [Server thread/INFO]: nata0388 lost connection: Disconnected
-[11:18:35] [Server thread/INFO]: nata0388 left the game
+[11:26:48] [Server thread/INFO]: nata0388 has made the advancement [Isn't It Iron Pick]
