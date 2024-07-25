@@ -51,3 +51,14 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [11:26:48] [Server thread/INFO]: nata0388 has made the advancement [Isn't It Iron Pick]
+[11:30:08] [Server thread/WARN]: nata0388 was kicked for floating too long!
+[11:30:08] [Server thread/INFO]: nata0388 lost connection: Flying is not enabled on this server
+[11:30:08] [Server thread/INFO]: nata0388 left the game.
+[11:30:08] [Server thread/WARN]: handleDisconnection() called twice
+[11:30:28] [User Authenticator #44/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[11:30:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@60e6483e[id=dd531956-fdb9-3161-965f-f3e0fc03d3cc,name=nata0388,properties={}] lost connection: Disconnected
+[11:31:49] [User Authenticator #45/INFO]: UUID of player nata0388 is dd531956-fdb9-3161-965f-f3e0fc03d3cc
+[11:31:51] [Server thread/INFO]: nata0388 joined the game
+[11:31:51] [Server thread/INFO]: nata0388[/166.205.208.113:34539] logged in with entity id 104304 at ([world]717.4911852506675, 62.92293597758627, -247.2727399366496)
+[11:42:07] [Server thread/INFO]: nata0388 lost connection: Disconnected
+[11:42:07] [Server thread/INFO]: nata0388 left the game
