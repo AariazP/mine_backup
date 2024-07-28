@@ -96,3 +96,8 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[21:03:49] [User Authenticator #46/INFO]: UUID of player TolimaBoy is d31cacdb-fc5d-319d-a230-18dbbb515d48
+[21:03:49] [Server thread/INFO]: TolimaBoy joined the game
+[21:03:49] [Server thread/INFO]: TolimaBoy[/152.202.17.28:51563] logged in with entity id 106149 at ([world]-39.58338265199106, 70.0, -15.241916342104599)
+[21:03:57] [Server thread/INFO]: TolimaBoy lost connection: Disconnected
+[21:03:57] [Server thread/INFO]: TolimaBoy left the game
