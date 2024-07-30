@@ -47,3 +47,11 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:27:22] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TIAN2531
+[20:27:22] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 (logged in as: TIAN2531) has connected to the Java server
+[20:27:22] [User Authenticator #1/INFO]: UUID of player TIAN2531 is 6aae8453-deec-3467-834f-695bad978bf1
+[20:27:22] [Server thread/INFO]: TIAN2531 joined the game
+[20:27:22] [Server thread/INFO]: TIAN2531[/190.90.9.115:0] logged in with entity id 36 at ([world]774.54724, 76.0, -295.12057)
+[20:29:07] [localSession-7-2/INFO]: [Geyser-Spigot] TIAN2531 has disconnected from the Java server because of Bedrock client disconnected
+[20:29:07] [Server thread/INFO]: TIAN2531 lost connection: Disconnected
+[20:29:07] [Server thread/INFO]: TIAN2531 left the game
